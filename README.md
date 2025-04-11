@@ -27,4 +27,4 @@ Usando las funciones incluidas en el archivo `funciones_labo.cpp`, se pide codif
 ## Entregables y forma de entrega
 
 - Se deben comprimir archivos `.cpp` en un zip y se deben subir al campus dentro de la entrega. 
-- Se debe entregar también un archivo txt contando la estrategia de resolución. Se recomienda primero analizar el problema y luego codificarlo.
+- Se debe entregar también un archivo txt contando la estrategia de resolución. Se recomienda primero analizar el problema y luego codificarlo. No es necesario que se extiendan un montón, solo con uno o dos párrafos contándonos con sus palabras cómo van a resolver el problema, está muy bien.
