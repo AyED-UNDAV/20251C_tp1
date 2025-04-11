@@ -16,15 +16,15 @@ Una vez que den todos los tests ok, eso quiere decir que ya podemos usar nuestra
 
 ## Ejercicio 2
 
- Se ingresan uno por uno los valores de una serie hasta el valor -1.
+Se deben ingresan por teclado uno por uno los valores de una serie hasta el valor -1.
 
 Usando las funciones incluidas en el archivo `funciones_labo.cpp`, se pide codificar en el archivo `labo.cpp`:
 
-    - Cuántos valores fueron válidos.
-    - Si la serie está aprobada (es_serie_aprobada).
-    - Si la serie es inestable (es_serie_inestable).
-    - Cuál fue el primer y último valor ingresado.
+    - Imprimir por pantalla cuántos valores fueron válidos de la serie.
+    - Imprimir por pantalla si la serie está aprobada (es_serie_aprobada).
+    - Imprimir por pantalla si la serie es inestable (es_serie_inestable).
+    
+## Entregables y forma de entrega
 
-## Forma de entrega
-
-Se deben comprimir archivos `.cpp` en un zip y se deben subir al campus dentro de la entrega. 
+- Se deben comprimir archivos `.cpp` en un zip y se deben subir al campus dentro de la entrega. 
+- Se debe entregar también un archivo txt contando la estrategia de resolución. Se recomienda primero analizar el problema y luego codificarlo.
